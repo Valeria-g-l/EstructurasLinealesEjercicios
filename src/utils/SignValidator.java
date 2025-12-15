@@ -35,4 +35,5 @@ public class SignValidator {
                (apertura == '{' && cierre == '}') ||
                (apertura == '[' && cierre == ']');
     }
+    /* */
 }
