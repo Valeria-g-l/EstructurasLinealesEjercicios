@@ -1,7 +1,7 @@
 # Práctica de Búsqueda y Ordenamiento de Objetos
 
 ## Información General
-- **Título:** Tiempos
+- **Título:** Estructuras Lineales
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Kelly Valeria Guaman Leon
@@ -23,6 +23,7 @@ El objetivo es verificar si la secuencia está balanceada.
 - Al final, si el stack queda vacío, la cadena es válida.
 
 **Ejemplo de salida:**
+
 ![alt text](image.png)
 
 ## Ejercicio 02: Ordenar un Stack
